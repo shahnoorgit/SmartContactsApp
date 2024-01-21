@@ -1,0 +1,52 @@
+.modelCon{
+  display: inline-flex;
+  height: 244px;
+  padding: 16px;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  gap: 20px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background: #FDFDFD;
+  
+}
+
+#namelb{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  width: 316px;
+  height: 67px;
+}
+#maillb{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  width: 316px;
+  height: 67px;
+}
+
+#submit{
+  gap: 10px;
+  padding: 6px 12px;
+  border-radius: 5px;
+  border: 1px solid #000;
+  background: #FCCA3F;
+}
+
+input{
+  width: 316px;
+  height: 40px;
+  align-items: center;
+  
+}
+.blur{
+  position: absolute;
+  margin-top: 157px;
+  backdrop-filter: blur(2px);
+  width: 100vw;
+  height: 100vh;
+}

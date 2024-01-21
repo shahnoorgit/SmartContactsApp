@@ -1,0 +1,16 @@
+.NoCon{
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  margin:  auto;
+  justify-content: center;
+}
+
+#noContacthead{
+  color: #FFF;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}

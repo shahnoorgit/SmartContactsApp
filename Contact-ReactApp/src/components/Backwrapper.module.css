@@ -1,0 +1,11 @@
+.bodydiv{
+  background: #323334;
+  width: 393px;
+  padding-left: 16px;
+  padding-right: 16px;
+  min-height: 852px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top:8px ;
+}
